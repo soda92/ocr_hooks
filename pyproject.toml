@@ -1,6 +1,6 @@
 [project]
 name = "ocr-hooks"
-version = "2025.8.4.0"
+version = "2025.8.4.1"
 description = "pyinstaller hooks for ddddocr and onnxruntime"
 readme = "README.md"
 authors = [
